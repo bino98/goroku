@@ -24,7 +24,7 @@
 
 噛み砕く音は結構大きい。
 なお剥いたほうがうまいらしい。
-<img title='image.png' src='/attachments/074fedb3-3bc8-421d-8f58-e76ceb8a7e4e' width="411" data-meta='{"width":411,"height":52}'>
+<img title='image.png' src='./images/image.png?raw=true' width="411" data-meta='{"width":411,"height":52}'>
 
 ## イノベーティブな出来事
 ■ ピスタチオを殻ごと食べていた時代
@@ -48,7 +48,7 @@ PJDのガンダムさんこと、小林さんが
 表彰式に着ていく服を考えている際、
 シャアの服は着れない旨の発言をしたあとに繰り出されたダジャレ。
 
-<img title='image (2).png' src='/attachments/b7b10406-15d5-4274-88c4-d7425f1d3343' width="730" data-meta='{"width":730,"height":610}'>
+<img title='image (2).png' src='./images/image-sha.png?raw=true' width="730" data-meta='{"width":730,"height":610}'>
 
 # ボールパーソン
 
