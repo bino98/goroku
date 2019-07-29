@@ -24,6 +24,7 @@
 
 噛み砕く音は結構大きい。
 なお剥いたほうがうまいらしい。
+
 <img title='image.png' src='./images/image.png?raw=true' width="411" data-meta='{"width":411,"height":52}'>
 
 ## イノベーティブな出来事
@@ -48,7 +49,7 @@ PJDのガンダムさんこと、小林さんが
 表彰式に着ていく服を考えている際、
 シャアの服は着れない旨の発言をしたあとに繰り出されたダジャレ。
 
-<img title='image (2).png' src='./images/image-sha.png?raw=true' width="730" data-meta='{"width":730,"height":610}'>
+<img title='image (2).png' src='./images/image_sha.png?raw=true' width="730" data-meta='{"width":730,"height":610}'>
 
 # ボールパーソン
 
